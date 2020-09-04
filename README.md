@@ -1,2 +1,2 @@
 # FirstTimeWebScraping
-First time web scraping, a bit of analysis done on recent failed banks in the States
+First time web scraping, data on recent failed banks in the States
